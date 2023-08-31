@@ -8,7 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 
 # Vihaan Chadha's First CS193 Homework
 
@@ -18,8 +17,6 @@ My Favorite Things about CS193
   - Getting to learn how to use new IDEs that I have never used before.
 
 
-
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
